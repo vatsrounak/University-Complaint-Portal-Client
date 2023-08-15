@@ -44,7 +44,7 @@ const LoginPage = () => {
   };
 
   return (
-    <section className="hero w-full h-screen bg-cover relative" style={{ backgroundImage: 'url(/bgimage.jpeg)' }}>
+    <section className="hero w-full h-screen bg-cover relative" style={{ backgroundImage: 'url(/bgimage.jpg)' }}>
       <div className="bg-black bg-opacity-50 absolute inset-0">
     <div className="flex justify-center items-center min-h-screen p-7">
       <div className="bg-white p-8 shadow-md rounded-md">

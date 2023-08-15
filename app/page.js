@@ -16,7 +16,7 @@ const HomePage = () => {
 
 
       {/* Main Hero Section */}
-      <section className="hero w-full h-screen bg-cover relative bg-opacity-50" style={{ backgroundImage: 'url(/bgimage.jpeg)' }}>
+      <section className="hero w-full h-screen bg-cover relative bg-opacity-50" style={{ backgroundImage: 'url(/bgimage.jpg)' }}>
         <div className="bg-black bg-opacity-50 absolute inset-0"></div>
         <div className="hero-content flex flex-col justify-center items-center h-full text-center relative z-10">
           <h2 className="text-4xl lg:text-6xl font-bold text-white mb-5">Complaint Reporting Portal</h2>
