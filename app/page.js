@@ -9,7 +9,7 @@ const HomePage = () => {
       <header className="py-4 px-8 z-40 flex justify-between items-center sticky top-0 bg-white shadoẁ">
         <div className="flex items-center">
           <Image src="/logo.png" alt="BIT MESRA Logo" width={50} height={50} />
-          <h1 className="text-2xl text-red-600 font-bold ml-4">BIT MESRA | राष्ट्रीय प्रौद्योगिकी संस्थान पटना</h1>
+          <h1 className="text-2xl text-red-600 font-bold ml-4">BIT MESRA | बिरला प्रौद्योगिकी संस्थान </h1>
         </div>
         <p className="text-sm text-left text-gray-600 hidden sm:block">An Institute of National Importance under Ministry of Education <br />  (Shiksha Mantralaya), Government of India</p>
       </header>
