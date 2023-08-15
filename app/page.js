@@ -109,7 +109,7 @@ const HomePage = () => {
               <p className="text-black">&copy; 2023 | BIT MESRA</p>
             </div>
             <div className="bottom-column">
-              <p className="text-black">Website by <a href="">Campus Careline</a></p>
+              <p className="text-black">Website by <a href="">Rounak Vats</a></p>
             </div>
           </div>
         </div>
