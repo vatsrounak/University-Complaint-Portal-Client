@@ -2,7 +2,7 @@ import '../globals.css'
 
 export const metadata = {
   title: 'Staff Dashboard',
-  description: 'Staff Dashboard for NIT Patna',
+  description: 'Staff Dashboard for BIT MESRA',
 }
 
 export default function adminLayout({ children }) {

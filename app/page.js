@@ -8,8 +8,8 @@ const HomePage = () => {
       {/* Header */}
       <header className="py-4 px-8 z-40 flex justify-between items-center sticky top-0 bg-white shadoẁ">
         <div className="flex items-center">
-          <Image src="/logo.png" alt="NIT Patna Logo" width={50} height={50} />
-          <h1 className="text-2xl text-red-600 font-bold ml-4">NIT Patna | राष्ट्रीय प्रौद्योगिकी संस्थान पटना</h1>
+          <Image src="/logo.png" alt="BIT MESRA Logo" width={50} height={50} />
+          <h1 className="text-2xl text-red-600 font-bold ml-4">BIT MESRA | राष्ट्रीय प्रौद्योगिकी संस्थान पटना</h1>
         </div>
         <p className="text-sm text-left text-gray-600 hidden sm:block">An Institute of National Importance under Ministry of Education <br />  (Shiksha Mantralaya), Government of India</p>
       </header>
@@ -21,7 +21,7 @@ const HomePage = () => {
         <div className="hero-content flex flex-col justify-center items-center h-full text-center relative z-10">
           <h2 className="text-4xl lg:text-6xl font-bold text-white mb-5">Complaint Reporting Portal</h2>
           <p className="text-white text-xl p-10">
-            Welcome to the Complaint Reporting Dashboard of NIT Patna! This platform is designed to provide a convenient way for students, faculty, and staff to report any issues, concerns, or complaints they may have.
+            Welcome to the Complaint Reporting Dashboard of BIT MESRA! This platform is designed to provide a convenient way for students, faculty, and staff to report any issues, concerns, or complaints they may have.
             We strive to create a safe and productive environment for everyone within our institution, and your feedback is important to us.
           </p>
           <Link href="/auth">
@@ -106,7 +106,7 @@ const HomePage = () => {
         <div className="bottom-section bg-gray-200 py-4 mt-10">
           <div className="max-w-4xl p-2 mx-auto flex justify-between items-center">
             <div className="bottom-column">
-              <p className="text-black">&copy; 2023 | NIT Patna</p>
+              <p className="text-black">&copy; 2023 | BIT MESRA</p>
             </div>
             <div className="bottom-column">
               <p className="text-black">Website by <a href="">Campus Careline</a></p>
