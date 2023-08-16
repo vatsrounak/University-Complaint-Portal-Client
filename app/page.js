@@ -80,10 +80,10 @@ const HomePage = () => {
         <div className="max-w-4xl mx-auto flex justify-between items-center">
           <div className="footer-column">
             <h3 className="text-xl font-bold">Contact Us</h3>
-            <p>National Institute of Technology Patna<br />Patna, Bihar (800005), India</p>
-            <p>Phone: +91-0612-237 1715 / 237 2715</p>
-            <p>FAX : +91-0612-2670631 , 0612-2660480</p>
-            <p>Official Website: <a href="https://www.nitp.ac.in" target="_blank" rel="noopener noreferrer" className="text-red-400">https://www.nitp.ac.in/</a></p>
+            <p>Birla Institute of Technology Mesra<br />Mesra, Jharkhand 835215</p>
+            <p>Phone: 0651 227 5444</p>
+            <p>Fax: 0651 2275401</p>
+            <p>Official Website: <a href="https://www.nitp.ac.in" target="_blank" rel="noopener noreferrer" className="text-red-400">https://www.bitmesra.ac.in/</a></p>
           </div>
           <div className="footer-column">
             <h3 className="text-xl font-bold">Follow Us</h3>
