@@ -83,7 +83,7 @@ const HomePage = () => {
             <p>Birla Institute of Technology Mesra<br />Mesra, Jharkhand 835215</p>
             <p>Phone: 0651 227 5444</p>
             <p>Fax: 0651 2275401</p>
-            <p>Official Website: <a href="https://www.nitp.ac.in" target="_blank" rel="noopener noreferrer" className="text-red-400">https://www.bitmesra.ac.in/</a></p>
+            <p>Official Website: <a href="https://www.nitp.ac.in" target="_blank" rel="noopener noreferrer" className="text-white">https://www.bitmesra.ac.in/</a></p>
           </div>
           <div className="footer-column">
             <h3 className="text-xl font-bold">Follow Us</h3>
