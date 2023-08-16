@@ -88,16 +88,16 @@ const HomePage = () => {
           <div className="footer-column">
             <h3 className="text-xl font-bold">Follow Us</h3>
             <div className="flex space-x-3 mt-4 social-links">
-              <Link href="http://www.facebook.com/nitpatnaofficial">
+              <Link href="https://www.facebook.com/mediacell.bitmesra">
                 <FaFacebookF />
               </Link>
-              <Link href="https://twitter.com/NITPatna1">
+              <Link href="https://twitter.com/bit_mesra?lang=en">
                 <FaTwitter />
               </Link>
-              <Link href="https://www.linkedin.com/school/national-institute-of-technology-patna/">
+              <Link href="https://www.linkedin.com/school/b.i.t.-mesra-ranchi/?originalSubdomain=in">
                 <FaLinkedinIn />
               </Link>
-              <Link href="https://goo.gl/maps/srZ6whpfDGqg85sp6">
+              <Link href="https://www.google.com/maps/contrib/109441344356868853865">
                 <FaLocationPin />
               </Link>
             </div>
